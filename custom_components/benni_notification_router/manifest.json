@@ -1,0 +1,13 @@
+{
+  "domain": "benni_notification_router",
+  "name": "Benni Notification Router",
+  "version": "0.1.0",
+  "documentation": "https://github.com/benni/benni_notification_router",
+  "issue_tracker": "https://github.com/benni/benni_notification_router/issues",
+  "codeowners": ["@benni"],
+  "config_flow": true,
+  "iot_class": "local_push",
+  "integration_type": "service",
+  "dependencies": [],
+  "requirements": []
+}
